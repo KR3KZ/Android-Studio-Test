@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="wsh">Wsh la zone</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="hello">Bonjour</string>
+    <string name="whatsurname">Tes informations</string>
+    <string name="validate">Valider</string>
+    <string name="nickname">Prénom</string>
+    <string name="whereuwereborn">Né(e) le</string>
+    <string name="at">À</string>
+    <string name="male">Homme</string>
+    <string name="woman">Femme</string>
+    <string name="city">Ville</string>
+    <string name="name">Nom</string>
+    <string name="surname">Prénom</string>
+    <string name="hint_date">Date de naissance</string>
+</resources>
